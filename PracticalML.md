@@ -1,5 +1,5 @@
-# Activity Recognition Using Predictive Analytics
-Achintya Rastogi  
+# Activity Recognition Using Predictive Analytics 
+Achintya Rastogi 
 
 ## Overview
 
